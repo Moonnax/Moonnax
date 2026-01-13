@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="center">Análise e Desenvolvimento de Sistemas</h4>
+<h4 align="center">Systems Analysis and Development</h4>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Olá! Sou aluna na FIAP, estou cursando Análise e Desenvolvimento de Sistemas, busco me profissionalizar nas minhas áreas de interesse, que incluem Análise de dados e Inteligência Artificial (I.A).<br>Com esse perfil, tenho como objetivo, além de compartilhar meus projetos, registrar minha evolução e aplicar a melhoria contínua na minha trajetória.</p>
+<p align="left">I'm a student at FIAP, currently pursuing a degree in Systems Analysis and Development. I am seeking to grow professionally in my areas of interest, which include Data Analysis, Artificial Intelligence (A.I), and Front-end development.<br>With this profile, my goal is not only to share my projects but also to document my progress and apply continuous improvement throughout my journey.</p>
 
 ###
 
